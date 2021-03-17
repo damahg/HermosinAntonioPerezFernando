@@ -1,5 +1,5 @@
 package gitHub;
-
+//comentario Fernando Pérez Sánchez
 import java.util.Scanner;
 
 public class Ejercicio1 {
